@@ -9,6 +9,11 @@ export default {
       title: "Title",
     },
     {
+      name: "date",
+      type: "date",
+      title: "Date Posted",
+    },
+    {
       name: "content",
       type: "text",
       title: "Content",
